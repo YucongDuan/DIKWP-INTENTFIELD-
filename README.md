@@ -1,7 +1,9 @@
 # DIKWP-INTENTFIELD²
 
-**Definition-Free Intent Field, DIKWP×DIKWP Semantic Navigation and Problem-Kernel Discovery System**  
-中文：**无定义意图场、网状语义空间突破与本质问题核发现系统**
+Created by Yucong Duan (段玉聪).
+
+Definition-Free Intent Field, DIKWP×DIKWP Semantic Navigation and Problem-Kernel Discovery System  
+中文：无定义意图场、网状语义空间突破与本质问题核发现系统
 
 ## Why this system exists
 
@@ -16,7 +18,7 @@ It starts from:
 - a co-equal DIKWP×DIKWP transformation mesh;
 - unresolved residuals and counterfactual actions.
 
-It does **not** produce a universal definition, a final category, an essence score, or an observer-free ontology.
+It does not produce a universal definition, a final category, an essence score, or an observer-free ontology.
 
 ## Core correction
 
